@@ -1,0 +1,11 @@
+Dependencies
+    1. Python
+    2. MySQL
+    3. mysql-connector-python
+
+Everyone knows how to install python and mysql so now the required 
+    installation is of mysql-connector-python.
+    
+Install the dependencies using:
+
+    pip install -r requirements.txt
